@@ -10,7 +10,10 @@
   top: 90px;
   right: 40px;
   z-index: 5;
-
+  .EmptyMessage{
+    font-size:18px;
+    margin: 50px auto;
+  }
   .CartItems {
     height: 240px;
     display: flex;
