@@ -21,6 +21,15 @@
   .Price {
     width: 23%;
   }
+  .Quantity{
+    display:flex;
+    .Arrow{
+      cursor:pointer;
+    }
+    .Value{
+      margin: 0 10px;
+    }
+  }
 
   .Quantity {
     padding-left: 20px;
